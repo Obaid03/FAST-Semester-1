@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Product Card</title>
+    <style type="text/css">
+        body {
+                font-family: arial;
+                background-color: white;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+        .card {
+            width: 50vh;
+            border: 1px solid #0644ee;
+            border-radius: 5%;
+            float: right;
+            padding: 30px 10px;
+            box-shadow: 0 8px 8px rgba(241, 18, 18, 0.1);
+            transition: transform 0.3s ease in ease-in-out;
+        }
+        .product-image {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 40vh;
+        }
+        .product-title {
+            display: flex;
+            justify-content: left;
+            text-decoration: underline;
+            font-size: 2rem;
+            margin: 10px 0;
+            color:rgba(2, 11, 92, 0.993)
+        }
+        .description {
+            display: flex;
+            justify-content: center;
+            font-size: 1rem;
+            color: #032994;
+            margin-bottom: 15px;
+        }
+        .price2 {
+            display: flex;
+            justify-content: left;
+            text-decoration: line-through;
+            align-items: center;
+            font-size: 1.5rem;
+            color: rgb(226, 7, 43);
+            margin-bottom: 30px;
+        }
+        .price {
+            display: flex;
+            justify-content: left;
+            align-items: center;
+            font-size: 1.5rem;
+            color: darkblue;
+            margin-bottom: 30px;
+        }
+        .buy-now {
+            display: inline-flex;
+            justify-content: center;
+            background-color: rgb(2, 2, 117);
+            color: gold;
+            padding: 30px 150px;
+            text-decoration: none;
+            border-radius: 50px;
+            transition: background-color 0.3s ease ease-in-out;
+        }
+        .buy-now:hover {
+            background-color: blue;
+        }
+    </style>
+</head>
+<body>
+
+<div class="card" >
+    <img class="product-image" src="https://www.junaidjamshed.com/media/catalog/product/s/h/sher_dil_-_air_force_1__1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=&width=" alt="Product Image" >
+    <h2 class="product-title">SHER DIL</h2>
+    <p class="description">Sher Dil is a fragrance that embodies strength and passion. With its captivating blend of rich notes, this perfume evokes a sense of bravery and confidence. Embrace your individuality and let Sher Dil be your signature scent.</p>
+    <p class="price2">Rs9999</p>
+    <p class="price">Rs999</p>
+    <a href="#" class="buy-now">Buy Now</a>
+</div>
+</body>
+</html>
