@@ -1,9 +1,3 @@
-/*
-Name: Iqra Ashraf
-Roll No: 24K-0952
-Problem No:1
-*/
-
 #include<stdio.h>
 
 int main(){
