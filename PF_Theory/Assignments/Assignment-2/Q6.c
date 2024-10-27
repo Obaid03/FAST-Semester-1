@@ -1,9 +1,3 @@
-/*
-Name: Iqra Ashraf
-Roll No: 24K-0952
-Problem No:6
-*/
-
 #include<stdio.h>
 
 int matchstickgame(int N){
