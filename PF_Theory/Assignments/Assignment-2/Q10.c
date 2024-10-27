@@ -1,8 +1,4 @@
 /*
-Name: Iqra Ashraf
-Roll No: 24K-0952
-Problem: 10
-
 In this problem, a star pattern is being printed with the length of each traingle being N-1 lines and an additional line in the middle of the pattern which contains the maximum number of stars. the pattern is being printed in total three sections, including upper, middle, and lower.
 */
 #include<stdio.h>
