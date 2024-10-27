@@ -1,9 +1,3 @@
-/*
-Name: Iqra Ashraf
-Roll No: 24K-0952
-Problem: 9
-*/
-
 #include <stdio.h>
 
 void showGrid(char grid[5][5]) {
