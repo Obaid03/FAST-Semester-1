@@ -1,9 +1,3 @@
-/*
-Name: Iqra Ashraf
-Roll No: 24K-0952
-Problem No:5
-*/
-
 #include <stdio.h>
 
 void horizontalHistogram(int values[],int count) {
