@@ -1,9 +1,3 @@
-/*
-Name: Iqra Ashraf
-Roll No: 24K-0952
-Problem: 8
-*/
-
 #include <stdio.h>
 
 int BINtoDEC(int num);
