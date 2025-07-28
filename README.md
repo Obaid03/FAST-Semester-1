@@ -42,10 +42,7 @@ The repository is structured by subjects covered in **Semester 1**:
 - Use **notes & slides** for concept understanding.  
 - Solve **past papers & practice questions** for exam preparation.  
 - Review **assignments** for additional practice and concept clarity.  
-- Share with fellow students for collaborative learning.  
+- Share with fellow students for collaborative learning.
 
-## **📌 Why This Repo?**  
-This repo serves as a **centralized resource** for **FAST-NUCES first-semester students**. It helps in:  
-✅ **Quick access** to study materials.  
-✅ **Effective revision** before exams.  
-✅ **Collaboration** among batchmates. 
+
+> ⭐ Star this repo if you find it helpful!
